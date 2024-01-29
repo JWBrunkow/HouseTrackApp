@@ -1,10 +1,10 @@
-package com.example.todolisttutorial
+package com.example.housetrack
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.lifecycle.ViewModelProvider
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.example.todolisttutorial.databinding.ActivityMainBinding
+import com.example.housetrack.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity(), TaskItemClickListener
 {

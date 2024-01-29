@@ -1,9 +1,9 @@
-package com.example.todolisttutorial
+package com.example.housetrack
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import com.example.todolisttutorial.databinding.TaskItemCellBinding
+import com.example.housetrack.databinding.TaskItemCellBinding
 
 class TaskItemAdapter(
     private val taskItems: List<TaskItem>,
